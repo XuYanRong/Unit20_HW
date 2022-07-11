@@ -1,6 +1,6 @@
 # Unit20_HW
 
-## Screenshots of transactions 
+## Execution_Results/ Screenshots of transactions
 ### 1. Transaction one (1 ether as wei)
 <img width="295" alt="Screen Shot 2022-07-11 at 18 05 47" src="https://user-images.githubusercontent.com/96373462/178219551-9182a8e8-8351-49ba-a59c-59cef7bd2a27.png">
 with contract account balance after the first transaction 
